@@ -4,14 +4,9 @@ yeoman-style boilerplate for making generators (templates, boilerplates) out of 
 
 ## setup
 
-clone this, then
-
 ```bash
-$ yarn
-$ yarn build
-$ yarn install-globally
+$ npm install --global gen-gen
 ```
-
 
 ## use it
 
